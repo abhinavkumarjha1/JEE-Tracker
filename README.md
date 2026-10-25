@@ -6,7 +6,7 @@ A Windows desktop app for tracking JEE Advanced preparation. Everything stays on
 
 ## Download
 
-Get the latest installer from the [Releases page](https://github.com/abhinavkumarjha1/jee-tracker/releases/latest): `JEE-Tracker-Setup-<version>.exe`.
+Get the latest installer from the [Releases page](https://github.com/abhinavkumarjha1/JEE-Tracker/releases/latest): `JEE-Tracker-Setup-<version>.exe`.
 
 - Windows 10 or 11, 64-bit.
 - Installs for the current user (no administrator rights needed). The installer asks you to accept the [license](LICENSE) first.
@@ -60,4 +60,4 @@ JEE Tracker is proprietary software, free for personal study use. You may not re
 
 ## Feedback and bugs
 
-Open an [issue](https://github.com/abhinavkumarjha1/jee-tracker/issues). Do not paste your data file into an issue. For security problems see [SECURITY.md](SECURITY.md).
+Open an [issue](https://github.com/abhinavkumarjha1/JEE-Tracker/issues). Do not paste your data file into an issue. For security problems see [SECURITY.md](SECURITY.md).

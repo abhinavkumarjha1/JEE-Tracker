@@ -4,4 +4,4 @@ If you find a security problem in JEE Tracker, please report it privately instea
 
 Please include the version (it is in the installer's file name), your Windows version and the steps to reproduce.
 
-Official downloads come only from the [Releases page](https://github.com/abhinavkumarjha1/jee-tracker/releases) of this repository. Check the SHA-256 listed in the README before you run any copy of the installer that did not come from there.
+Official downloads come only from the [Releases page](https://github.com/abhinavkumarjha1/JEE-Tracker/releases) of this repository. Check the SHA-256 listed in the README before you run any copy of the installer that did not come from there.
