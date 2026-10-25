@@ -1,0 +1,63 @@
+JEE TRACKER - LICENSE AGREEMENT
+
+Copyright (c) 2026 abhinavkumarjha1. All rights reserved.
+
+Please read this before you install. By clicking "I Agree" you accept these
+terms. If you do not accept them, do not install or use JEE Tracker.
+
+1. WHAT YOU MAY DO
+   You get a personal, non-exclusive, non-transferable, revocable license to
+   install and use the unmodified JEE Tracker installer, exactly as published
+   by the copyright holder, on devices you own or control, for your own study
+   and personal organization, free of charge.
+
+2. WHAT YOU MAY NOT DO
+   Without the copyright holder's prior written permission you may not:
+   a) copy, upload, mirror, redistribute, sell, rent, lease or sublicense
+      JEE Tracker, or any part of it, or make it available to anyone else
+      (sharing a link to the official download page is allowed);
+   b) modify, adapt, translate or repackage JEE Tracker, or distribute any
+      modified or repackaged version;
+   c) copy, reuse or build on its code, design, layout, text, icons or other
+      assets in any other work;
+   d) decompile, disassemble, reverse engineer or unpack it to obtain its
+      source code, except to the limited extent that a law which cannot be
+      waived expressly allows despite this restriction;
+   e) remove or change any copyright, license or ownership notice;
+   f) use the name "JEE Tracker" or its icon for another product or service.
+
+3. OWNERSHIP
+   JEE Tracker is licensed, not sold. The copyright holder keeps every right
+   that is not expressly granted in this agreement.
+
+4. YOUR DATA
+   JEE Tracker keeps your data only on your own computer, in the folder
+   %APPDATA%\jee-tracker. It has no account and no telemetry, and the program
+   does not send your data anywhere. You are responsible for backing up that
+   folder (the Data Backup feature in Settings exists for this).
+
+5. THIRD-PARTY COMPONENTS
+   JEE Tracker includes Electron and Chromium (see the files LICENSE and
+   LICENSES.chromium.html in the installation folder) and the fonts Space
+   Grotesk, JetBrains Mono and Sora under the SIL Open Font License 1.1 (see
+   THIRD-PARTY-NOTICES.txt in the installation folder). Those components keep
+   their own licenses. Nothing in this agreement limits the rights you have
+   under them.
+
+6. NO WARRANTY
+   JEE TRACKER IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING ANY WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE,
+   ACCURACY OR NON-INFRINGEMENT. It is a study aid. It does not promise any
+   exam result.
+
+7. LIMIT OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE
+   FOR ANY LOSS OF DATA OR STUDY RECORDS, OR FOR ANY INDIRECT OR CONSEQUENTIAL
+   DAMAGE, ARISING FROM THE USE OF, OR THE INABILITY TO USE, JEE TRACKER.
+
+8. ENDING THIS LICENSE
+   This license ends automatically if you break any of its terms. When it
+   ends you must stop using JEE Tracker and delete every copy of it.
+
+9. IF A PART IS UNENFORCEABLE
+   If a part of this agreement cannot be enforced, the rest still applies.
