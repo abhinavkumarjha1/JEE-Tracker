@@ -38,6 +38,12 @@ Expected for 2.4.1:
 
     15a5366729ce274a94dec503d544661b3c89306b1b1195fd274d79f505849ccf
 
+Releases here are **immutable**: once a release is published, GitHub locks its files and its tag, so nobody, the owner included, can swap the installer for a different file under the same version. GitHub also signs a release attestation that records the SHA-256 of every file in the release. If you have the [GitHub CLI](https://cli.github.com/), you can check your download against it:
+
+    gh release verify-asset v2.4.1 JEE-Tracker-Setup-2.4.1.exe -R abhinavkumarjha1/JEE-Tracker
+
+Only installers from this repository's [Releases page](https://github.com/abhinavkumarjha1/JEE-Tracker/releases) are official. Check any other copy against the SHA-256 above.
+
 ## "Windows protected your PC"
 
 The installer is **not code-signed yet**, so Windows SmartScreen shows a blue "Windows protected your PC" page the first time you run it.
