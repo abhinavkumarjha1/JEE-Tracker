@@ -2,6 +2,10 @@
 
 A Windows desktop app for tracking JEE Advanced preparation. Everything stays on your computer.
 
+![JEE Tracker dashboard with chapter progress, today's agenda and exam countdowns](screenshots/hero.png)
+
+*Screenshots show made-up sample data.*
+
 > This repository contains **no source code**. It holds the installer releases, the license and the verification notes.
 
 ## Download
@@ -21,6 +25,56 @@ Get the latest installer from the [Releases page](https://github.com/abhinavkuma
 - **Study Hours**: totals, streaks, goal tracking and charts.
 - **Exam countdown** and **mock score** tracking.
 - Six themes (Midnight, Graphite, Dusk, High Contrast, Daylight, Paper) and your own accent color.
+
+## Screenshots
+
+Taken from version 2.4.1 with made-up sample data, not a real student's records.
+
+### Dashboard
+
+Overall progress by chapter, today's agenda, exam countdowns, weekly study time and mock scores.
+
+![Dashboard](screenshots/dashboard.png)
+
+### Planner
+
+Calendar with a time grid. Tasks are colored by subject, breaks are dashed, finished tasks are struck through, and the red line is the current time.
+
+![Planner](screenshots/planner.png)
+
+### Subjects
+
+A table per subject with every chapter, its study materials and a priority. Physics is shown; Chemistry and Maths work the same way.
+
+![Physics chapters and study materials](screenshots/subject-physics.png)
+
+### Study Clock
+
+Run a timer or a countdown, or start a session straight from one of today's tasks. Every session is logged for you.
+
+![Study Clock with a session running](screenshots/study-clock.png)
+
+### Logbook
+
+The Analysis tab: questions solved per day and per week, subject split, top chapters, chapter coverage and what you have not practised lately. The other tabs hold the task log, session log, daily log and mistake log.
+
+![Logbook analysis](screenshots/logbook.png)
+
+### Study Hours
+
+Today against your daily goal, goal streak, hours by day and by type, a consistency calendar and a breakdown per subject.
+
+![Study Hours](screenshots/study-hours.png)
+
+### Themes
+
+Six themes plus your own accent color. Midnight, Graphite, Dusk and High Contrast are dark; Daylight and Paper are light.
+
+![Theme picker](screenshots/themes.png)
+
+![Dashboard in the Daylight theme](screenshots/theme-daylight.png)
+
+![Planner in the High Contrast theme](screenshots/theme-high-contrast.png)
 
 ## Check your download
 
