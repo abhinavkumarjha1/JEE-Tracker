@@ -23,6 +23,7 @@ Get the latest installer from the [Releases page](https://github.com/abhinavkuma
 - **Planner**: side calendar with a time grid, Study and Break tasks, repeating tasks (daily, weekly, monthly, yearly or custom).
 - **Logbook**: analysis, task log, session log, an automatic daily log and a mistake log.
 - **Study Hours**: totals, streaks, goal tracking and charts.
+- **Pace to the exam** and a review queue: how many chapters a week you finish against what the exam needs, and the mistakes that are due again.
 - **Exam countdown** and **mock score** tracking.
 - Six themes (Midnight, Graphite, Dusk, High Contrast, Daylight, Paper) and your own accent color.
 
@@ -82,19 +83,19 @@ Every release lists the installer's SHA-256 and ships a `SHA256SUMS.txt`. Compar
 
 PowerShell:
 
-    Get-FileHash .\JEE-Tracker-Setup-2.4.1.exe -Algorithm SHA256
+    Get-FileHash .\JEE-Tracker-Setup-2.5.0.exe -Algorithm SHA256
 
 Command Prompt:
 
-    certutil -hashfile JEE-Tracker-Setup-2.4.1.exe SHA256
+    certutil -hashfile JEE-Tracker-Setup-2.5.0.exe SHA256
 
-Expected for 2.4.1:
+Expected for 2.5.0:
 
-    15a5366729ce274a94dec503d544661b3c89306b1b1195fd274d79f505849ccf
+    3965bab8b0dddbb448ed2bfd64c933d40e25cc6cdaa3b175756ae24920d24339
 
 Releases here are **immutable**: once a release is published, GitHub locks its files and its tag, so nobody, the owner included, can swap the installer for a different file under the same version. GitHub also signs a release attestation that records the SHA-256 of every file in the release. If you have the [GitHub CLI](https://cli.github.com/), you can check your download against it:
 
-    gh release verify-asset v2.4.1 JEE-Tracker-Setup-2.4.1.exe -R abhinavkumarjha1/JEE-Tracker
+    gh release verify-asset v2.5.0 JEE-Tracker-Setup-2.5.0.exe -R abhinavkumarjha1/JEE-Tracker
 
 Only installers from this repository's [Releases page](https://github.com/abhinavkumarjha1/JEE-Tracker/releases) are official. Check any other copy against the SHA-256 above.
 
@@ -110,7 +111,7 @@ SmartScreen builds reputation for unsigned files one file at a time, so this war
 ## Your data and privacy
 
 - No account, no analytics, no ads. The app's own code makes no network requests, and its fonts are bundled.
-- Your data is one file, `jee-tracker-data.json`, in `%APPDATA%\jee-tracker\`, with rolling backups next to it. Settings has a Data Backup section. Copy that folder before you upgrade if you want a safety copy.
+- Your data is one file, `jee-tracker-data.json`, in `%APPDATA%\jee-tracker\`, with a rolling backup, daily restore points and a copy made before every import or restore next to it. Settings has Data Backup and Restore points sections. Copy that folder before you upgrade if you want a safety copy.
 
 ## License
 
